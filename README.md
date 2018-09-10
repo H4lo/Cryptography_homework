@@ -1,2 +1,1 @@
-# Cryptography_homework
-scripts
+# 密码学作业脚本
